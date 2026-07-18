@@ -1,0 +1,11 @@
+app_color=0f
+
+================================================================================
+
+google_path=
+
+unity_path=
+
+libresprite_path=
+
+vsCode_path=
